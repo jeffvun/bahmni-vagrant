@@ -1,5 +1,5 @@
 FROM centos:6.6
-MAINTAINER Bahmni Team <bahmni@thoughtworks.com>
+LABEL Bahmni Team <bahmni@thoughtworks.com>
 
 ADD base.sh /tmp/base.sh
 
